@@ -1,2 +1,2 @@
-﻿GZit is a version control system.
+﻿GZit is a distributed version control system.
 Git is free software.
